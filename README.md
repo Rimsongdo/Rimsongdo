@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rimsongdo Roger SAWADOGO
-- 👀 I’m interested in Embedded Systems and Software Engineering
+- 👀 I’m interested in Embedded Systems
 
 
 Rimsongdo/Rimsongdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
